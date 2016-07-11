@@ -1,5 +1,0 @@
-C:\Users\slohan\Documents\Visual Studio 2012\Projects\DemoMethods\Version4\bin\Debug\Version4.exe.config
-C:\Users\slohan\Documents\Visual Studio 2012\Projects\DemoMethods\Version4\bin\Debug\Version4.exe
-C:\Users\slohan\Documents\Visual Studio 2012\Projects\DemoMethods\Version4\bin\Debug\Version4.pdb
-C:\Users\slohan\Documents\Visual Studio 2012\Projects\DemoMethods\Version4\obj\Debug\Version4.exe
-C:\Users\slohan\Documents\Visual Studio 2012\Projects\DemoMethods\Version4\obj\Debug\Version4.pdb

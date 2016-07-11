@@ -1,6 +1,0 @@
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\MethodExample\bin\Debug\MethodExample.exe.config
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\MethodExample\bin\Debug\MethodExample.exe
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\MethodExample\bin\Debug\MethodExample.pdb
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\MethodExample\obj\Debug\MethodExample.csprojResolveAssemblyReference.cache
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\MethodExample\obj\Debug\MethodExample.exe
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\MethodExample\obj\Debug\MethodExample.pdb

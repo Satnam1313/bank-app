@@ -1,6 +1,0 @@
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByRef2\bin\Debug\ByRef2.exe.config
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByRef2\bin\Debug\ByRef2.exe
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByRef2\bin\Debug\ByRef2.pdb
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByRef2\obj\Debug\ByRef2.csprojResolveAssemblyReference.cache
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByRef2\obj\Debug\ByRef2.exe
-E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByRef2\obj\Debug\ByRef2.pdb

@@ -1,5 +1,0 @@
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex02\bin\Debug\Ex02.exe.config
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex02\bin\Debug\Ex02.exe
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex02\bin\Debug\Ex02.pdb
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex02\obj\Debug\Ex02.exe
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex02\obj\Debug\Ex02.pdb

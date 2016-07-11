@@ -1,6 +1,0 @@
-P:\SLOHAN\COMP123\Code Examples\LINQ\MaxMinAvg\bin\Debug\MaxMinAvg.exe.config
-P:\SLOHAN\COMP123\Code Examples\LINQ\MaxMinAvg\bin\Debug\MaxMinAvg.exe
-P:\SLOHAN\COMP123\Code Examples\LINQ\MaxMinAvg\bin\Debug\MaxMinAvg.pdb
-P:\SLOHAN\COMP123\Code Examples\LINQ\MaxMinAvg\obj\Debug\MaxMinAvg.csprojResolveAssemblyReference.cache
-P:\SLOHAN\COMP123\Code Examples\LINQ\MaxMinAvg\obj\Debug\MaxMinAvg.exe
-P:\SLOHAN\COMP123\Code Examples\LINQ\MaxMinAvg\obj\Debug\MaxMinAvg.pdb

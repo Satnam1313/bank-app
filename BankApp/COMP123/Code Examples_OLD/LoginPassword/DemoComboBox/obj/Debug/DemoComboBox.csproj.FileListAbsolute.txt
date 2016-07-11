@@ -1,9 +1,0 @@
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\bin\Debug\DemoComboBox.exe.config
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\bin\Debug\DemoComboBox.exe
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\bin\Debug\DemoComboBox.pdb
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\obj\Debug\DemoComboBox.Properties.Resources.resources
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\obj\Debug\DemoComboBox.csproj.GenerateResource.Cache
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\obj\Debug\DemoComboBox.exe
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\obj\Debug\DemoComboBox.pdb
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\obj\Debug\DemoComboBox.MyForm.resources
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoComboBox\obj\Debug\DemoComboBox.csprojResolveAssemblyReference.cache

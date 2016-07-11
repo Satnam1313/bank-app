@@ -1,6 +1,0 @@
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-7\bin\Debug\Fig14-7.exe.config
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-7\bin\Debug\Fig14-7.exe
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-7\bin\Debug\Fig14-7.pdb
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-7\obj\Debug\Fig14-7.csprojResolveAssemblyReference.cache
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-7\obj\Debug\Fig14-7.exe
-E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-7\obj\Debug\Fig14-7.pdb

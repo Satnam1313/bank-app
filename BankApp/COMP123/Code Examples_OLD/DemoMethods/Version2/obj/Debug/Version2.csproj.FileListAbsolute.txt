@@ -1,5 +1,0 @@
-c:\users\slohan\documents\visual studio 2012\Projects\DemoMethods\Version2\bin\Debug\Version2.exe.config
-c:\users\slohan\documents\visual studio 2012\Projects\DemoMethods\Version2\bin\Debug\Version2.exe
-c:\users\slohan\documents\visual studio 2012\Projects\DemoMethods\Version2\bin\Debug\Version2.pdb
-c:\users\slohan\documents\visual studio 2012\Projects\DemoMethods\Version2\obj\Debug\Version2.exe
-c:\users\slohan\documents\visual studio 2012\Projects\DemoMethods\Version2\obj\Debug\Version2.pdb
