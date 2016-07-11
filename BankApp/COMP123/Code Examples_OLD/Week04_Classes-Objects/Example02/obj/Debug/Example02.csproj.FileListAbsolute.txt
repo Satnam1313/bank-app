@@ -1,0 +1,6 @@
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\Example02\bin\Debug\Example02.exe.config
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\Example02\bin\Debug\Example02.exe
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\Example02\bin\Debug\Example02.pdb
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\Example02\obj\Debug\Example02.exe
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\TestExamples\Week04_Classes-Objects\Example02\obj\Debug\Example02.pdb

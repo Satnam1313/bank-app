@@ -1,0 +1,9 @@
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment06\Sheharyar-Khan_Lab-Assignment06\Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe.config
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment06\Sheharyar-Khan_Lab-Assignment06\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment06\Sheharyar-Khan_Lab-Assignment06\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.pdb
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment06\Solution_Lab-Assignment06\Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe.config
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment06\Solution_Lab-Assignment06\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment06\Solution_Lab-Assignment06\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.pdb
+C:\Users\satna\Desktop\BankApp\BankApp\COMP123\Lab Assignments Solutions\Solution_Lab-Assignment06\Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe.config
+C:\Users\satna\Desktop\BankApp\BankApp\COMP123\Lab Assignments Solutions\Solution_Lab-Assignment06\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\satna\Desktop\BankApp\BankApp\COMP123\Lab Assignments Solutions\Solution_Lab-Assignment06\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.pdb

@@ -1,0 +1,6 @@
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByValue\bin\Debug\ByValue.exe.config
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByValue\bin\Debug\ByValue.exe
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByValue\bin\Debug\ByValue.pdb
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByValue\obj\Debug\ByValue.csprojResolveAssemblyReference.cache
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByValue\obj\Debug\ByValue.exe
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\CodeExamples\AdvanceMethods\ByValue\obj\Debug\ByValue.pdb

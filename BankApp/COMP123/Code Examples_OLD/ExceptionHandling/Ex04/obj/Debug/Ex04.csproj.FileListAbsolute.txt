@@ -1,0 +1,5 @@
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex04\bin\Debug\Ex04.exe.config
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex04\bin\Debug\Ex04.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex04\bin\Debug\Ex04.pdb
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex04\obj\Debug\Ex04.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Ex04\obj\Debug\Ex04.pdb

@@ -1,0 +1,8 @@
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\bin\Debug\DemoControls02.exe.config
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\bin\Debug\DemoControls02.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\bin\Debug\DemoControls02.pdb
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\obj\Debug\DemoControls02.Form1.resources
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\obj\Debug\DemoControls02.Properties.Resources.resources
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\obj\Debug\DemoControls02.csproj.GenerateResource.Cache
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\obj\Debug\DemoControls02.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LoginPassword\DemoControls02\obj\Debug\DemoControls02.pdb

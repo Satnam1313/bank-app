@@ -1,0 +1,6 @@
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Example01\bin\Debug\Example01.exe.config
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Example01\bin\Debug\Example01.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Example01\bin\Debug\Example01.pdb
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Example01\obj\Debug\Example01.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\ExceptionHandling\Example01\obj\Debug\Example01.pdb

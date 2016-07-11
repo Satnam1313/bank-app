@@ -1,0 +1,5 @@
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LINQ\Fig15-7b\bin\Debug\Fig15-7b.exe.config
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LINQ\Fig15-7b\bin\Debug\Fig15-7b.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LINQ\Fig15-7b\bin\Debug\Fig15-7b.pdb
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LINQ\Fig15-7b\obj\Debug\Fig15-7b.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\LINQ\Fig15-7b\obj\Debug\Fig15-7b.pdb

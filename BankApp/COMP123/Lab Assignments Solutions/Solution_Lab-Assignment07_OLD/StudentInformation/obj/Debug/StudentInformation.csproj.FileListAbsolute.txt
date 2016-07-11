@@ -1,0 +1,45 @@
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe.config
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.pdb
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.exe
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.pdb
+G:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.StudentRegistration.resources
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.pdb
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.StudentRegistration.resources
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\300818592\Desktop\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe.config
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.exe
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.pdb
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe.config
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.exe
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.pdb
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.pdb
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.StudentRegistration.resources
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+D:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+I:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe.config
+I:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.exe
+I:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.pdb
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.pdb
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.StudentRegistration.resources
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+E:\Winter Semester 2 (2015)\COMP 123 (Programming 2)\My Work\Week 11\Completed Assignment\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\Lab Assignments_Sol\Jason-Huang_Lab-Assignment07\Jason-Huang_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe.config
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\Lab Assignments_Sol\Jason-Huang_Lab-Assignment07\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.exe
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\Lab Assignments_Sol\Jason-Huang_Lab-Assignment07\Jason-Huang_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.pdb
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\Lab Assignments_Sol\Jason-Huang_Lab-Assignment07\Solution_Lab-Assignment07\StudentInformation\bin\Debug\StudentInformation.exe.config
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\Lab Assignments_Sol\Jason-Huang_Lab-Assignment07\Solution_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.exe
+E:\A-TEACHING\Centennial\A-WINTER 2015\COMP123\Lab Assignments_Sol\Jason-Huang_Lab-Assignment07\Solution_Lab-Assignment07\StudentInformation\obj\Debug\StudentInformation.pdb

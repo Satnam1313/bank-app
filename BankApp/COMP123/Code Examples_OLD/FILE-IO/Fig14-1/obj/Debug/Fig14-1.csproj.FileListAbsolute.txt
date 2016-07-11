@@ -1,0 +1,5 @@
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-1\bin\Debug\Fig14-1.exe.config
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-1\bin\Debug\Fig14-1.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-1\bin\Debug\Fig14-1.pdb
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-1\obj\Debug\Fig14-1.exe
+E:\A-TEACHING\Centennial\A-Winter2014\COMP123\DemoPrograms\FILE-IO\Fig14-1\obj\Debug\Fig14-1.pdb

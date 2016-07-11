@@ -1,0 +1,17 @@
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe.config
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.pdb
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\obj\Debug\Sheharyar_Khan_Ex_01.RegistrationForm.resources
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\obj\Debug\Sheharyar_Khan_Ex_01.Properties.Resources.resources
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\obj\Debug\Ex-01.csproj.GenerateResource.Cache
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Lab-Assignment05\Sheharyar-Khan_Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.pdb
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Solution_Lab-Assignment05\Sheharyar-Khan_Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe.config
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Solution_Lab-Assignment05\Sheharyar-Khan_Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Solution_Lab-Assignment05\Sheharyar-Khan_Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.pdb
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Solution_Lab-Assignment05\Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe.config
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Solution_Lab-Assignment05\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\slohan.CENCOL\Downloads\Sheharyar-Khan_Lab-Assignment05\Solution_Lab-Assignment05\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.pdb
+C:\Users\satna\Desktop\BankApp\BankApp\COMP123\Lab Assignments Solutions\Solution_Lab-Assignment05\Ex-01\bin\Debug\Sheharyar-Khan_Ex-01.exe.config
+C:\Users\satna\Desktop\BankApp\BankApp\COMP123\Lab Assignments Solutions\Solution_Lab-Assignment05\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.exe
+C:\Users\satna\Desktop\BankApp\BankApp\COMP123\Lab Assignments Solutions\Solution_Lab-Assignment05\Ex-01\obj\Debug\Sheharyar-Khan_Ex-01.pdb
